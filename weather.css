@@ -1,0 +1,103 @@
+h1 {
+  color: rgb(32, 33, 36);
+  display: block;
+  font-family: arial, sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 26px;
+  padding-top: 20px;
+  text-align: right;
+}
+
+ul.tendency {
+  color: rgb(32, 33, 36);
+  display: block;
+  font-family: arial, sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  height: 16px;
+  line-height: 16px;
+  list-style: none;
+  padding-top: 20px;
+}
+ul.current-status {
+  color: rgb(32, 33, 36);
+  display: block;
+  font-family: arial, sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+  height: 20px;
+  line-height: 30px;
+  text-align: right;
+  list-style: none;
+}
+
+.unit {
+  display: inline;
+  font-family: Google Sans, arial, sans-serif;
+  font-weight: 400;
+  color: #202124;
+  font-size: 48px;
+  line-height: 60px;
+  margin-top: 10px;
+}
+#logo {
+  font-size: 50px;
+  color: black;
+  padding: 20px;
+}
+.app-body {
+  border: 2px solid transparent;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 800px;
+  border-radius: 20px;
+}
+.degree {
+  position: relative;
+  bottom: 10px;
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: none;
+}
+.form {
+  margin-bottom: 20px;
+}
+
+.card-body {
+  border: 1px solid black;
+  padding: 10px;
+  border-radius: 10px;
+}
+.days {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  padding-top: 60px;
+}
+.temperature {
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+}
+.daily-forecast {
+  text-align: right;
+  max-width: 1000px;
+  position: relative;
+  left: 140px;
+}
+.container {
+  display: block;
+  font-family: arial, sans-serif;
+  border: 3px solid #eeeeee;
+  box-shadow: 5px 5px 5px #a2a8d3;
+  border-radius: 10px;
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+  background: linear-gradient(
+    180.3deg,
+    rgb(221, 221, 221) 5.5%,
+    rgb(110, 136, 161) 90.2%
+  );
+}
