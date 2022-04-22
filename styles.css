@@ -101,3 +101,7 @@ ul.current-status {
     rgb(110, 136, 161) 90.2%
   );
 }
+#link {
+  text-align: center;
+  font-style: italic;
+}
